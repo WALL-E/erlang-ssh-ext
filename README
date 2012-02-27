@@ -1,0 +1,4 @@
+Only can use on the trusted hosts.
+
+example:
+	run.sh date
